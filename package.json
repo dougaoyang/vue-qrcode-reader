@@ -28,10 +28,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gruhn/vue-qrcode-reader.git"
+    "url": "git+https://github.com/dougaoyang/vue-qrcode-reader.git"
   },
   "bugs": {
-    "url": "https://github.com/gruhn/vue-qrcode-reader/issues"
+    "url": "https://github.com/dougaoyang/vue-qrcode-reader/issues"
   },
   "homepage": "https://gruhn.github.io/vue-qrcode-reader",
   "husky": {
